@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:andriod="http://schemas.android.com/apk/res/android"
+    andriod:shape="rectangle">
+    <solid andriod:color="#00ffffff"/>
+    <stroke andriod:width="2dp" andriod:color="#4fa5d5"/>
+    <padding andriod:left="4dp" andriod:right="4dp"
+         andriod:bottom="1dp" andriod:top="1dp"/>
+
+</shape>

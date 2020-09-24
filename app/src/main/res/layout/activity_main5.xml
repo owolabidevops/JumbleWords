@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/canstockphoto4154238"
+    android:fillViewport="true"
+    >
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".Main5Activity">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#0b0b0b"
+        android:textSize="20sp"
+        android:text=" Word jumble is a single player game and this game should be  played by the following rules:\n  \n  \n1.there are three levels in the game\n    \n  *beginner\n   \n    *ntermediate\n    \n    *expert\n   \n  \nplayer will select the level according to his/her vocabulary. \n   \n   \n2.when the game start the player will be given letters of word in jumble order.\n   \n  \n3.player need to guess word to proceed ahead in the game.\n  \n   \n4.player  will be given 45 minute to guess each word.\n   \n  \n5.if a player is not able to guess a word within 45 minute the game end." />
+</RelativeLayout>
+   </ScrollView>
